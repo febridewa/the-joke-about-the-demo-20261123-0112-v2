@@ -7,8 +7,8 @@ Writes to /output/entry.txt (created if missing).
 import os
 
 JOKE = (
-    "My coding agent froze halfway through the demo, turned to the audience, "
-    "and asked if anyone knew how to fix its code."
+    "Halfway through the demo, my coding agent froze, turned to the audience, "
+    "and asked if anyone knew how to fix the code it had just written."
 )
 
 
